@@ -5,9 +5,6 @@ def parse_parameters(query: str) -> dict:
 def parse_cookies(query: str) -> dict:
     return {}
 
-def null_func():
-    pass
-
 
 if __name__ == '__main__':
     # Tests for function "parse_parameters"
